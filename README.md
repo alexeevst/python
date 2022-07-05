@@ -1,9 +1,9 @@
-Выполненные задания с курса по A\B тестированию на skillbox
- - hypothesis testing
-   - Чистка датасета ( удаление выбросов и дубликатов)
-   - Построение визуализаций, используя бибилиотеку seaborn
-   - Использование различных стат.критериев для проверок гипотех, таких как: 
-     t-тест, манна-уитни, хи-квадрат, bootstrap
- - multiple testing
-   - Использовагние критерия краскела-уолисса и дисперсионного анализа
-     для проверки гипотез 
+Completed tasks from the A \ B testing course on skillbox
+  - **hypothesis testing**
+    - Cleaning the dataset (removing outliers and duplicates)
+    - Building visualizations using the seaborn library
+    - Use of various statistic criteria for hypotech checks, such as:
+      t-test, manna-whitney, chi-square, bootstrap
+  - **multiple testing**
+    - Using the Kruskal-Walliss test and analysis of variance
+      to test hypotheses
